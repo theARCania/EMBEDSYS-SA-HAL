@@ -18,4 +18,3 @@ This project provides a hardware abstraction layer (HAL) and basic control loop 
 *   `uart.c` / `uart.h`: Manages UART communication for rover control.
 *   `vga.c` / `vga.h`: Provides pixel-level and character-level drawing functions for the VGA output.
 *   `led.c` / `led.h`: Controls memory-mapped LEDs, primarily used for the system scram sequence.
-# EMBEDSYS-SA-HAL
